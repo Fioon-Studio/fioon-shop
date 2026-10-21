@@ -3,7 +3,7 @@
   function esc(s) { return String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
   function base() {
     var cfg = global.FIOON_PAYPAL || {};
-    var here = location.pathname.replace(/\/[^/]*$/, '/');
+    var here = location.href.replace(/[^\/]*$/, '');
     return { cfg: cfg, here: here };
   }
   function formHtml(tierKey) {
