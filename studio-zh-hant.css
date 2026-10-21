@@ -1,0 +1,59 @@
+/* The FiOON Studio - Traditional Chinese (Taiwan / Hong Kong) page.
+   Page-specific rules only. The layout, type scale, spacing and colour values
+   all come from v2.css, store.css, pages.css, experience-v9.css and
+   studio.css. The rules below only adapt those shared rules to Han text:
+   a CJK font stack, tracking and line-height that suit Chinese characters,
+   and a few sizes that are too small for 9px-12px Han glyphs. */
+
+body{
+  background:#fafaf8;
+  color:#1b1b1b;
+  font-family:Arial,"Helvetica Neue",Helvetica,"Microsoft JhengHei","PingFang TC","Noto Sans TC","Hiragino Sans CNS","Source Han Sans TC","Microsoft YaHei",sans-serif;
+  line-break:strict;
+}
+
+/* Han characters fill the em box, so the Latin tracking is reset and the
+   leading is opened slightly. */
+.studio-hero h1{letter-spacing:0;line-height:1.3}
+.studio-block h2{letter-spacing:0;line-height:1.45}
+.studio-close h2{letter-spacing:0;line-height:1.45}
+.studio-day h3{letter-spacing:0;line-height:1.5}
+.studio-list h3{letter-spacing:0}
+.studio-tier-name{letter-spacing:0}
+.studio-tier-price{letter-spacing:0}
+.studio-day-tag{letter-spacing:.5px}
+
+/* The overline is 9px Latin small-caps. Han glyphs need a size and a
+   tracking step that read the same way at that weight. */
+.studio-label .overline{font-size:11px;letter-spacing:2.2px;color:#9a9a93}
+.studio-tiers thead th{font-size:10.5px;letter-spacing:1.8px}
+
+/* Small type on the shared sheets is legible in Latin but tight in Han. */
+.page-breadcrumb{font-size:12px}
+.studio-note{font-size:13px;line-height:1.8}
+.studio-proof figcaption{font-size:12.5px;line-height:1.85}
+.studio-frames figcaption{font-size:12.5px}
+.studio-tiers{font-size:12.5px}
+.studio-tiers li{line-height:1.8}
+.studio-tier-for{font-size:12px}
+.studio-turn{font-size:12px}
+.store-footer h3{font-size:12px}
+.store-footer a{font-size:12px}
+.store-footer p{font-size:12px}
+
+/* Two links share the closing line. */
+.studio-back a{margin-right:22px}
+.studio-back a:last-child{margin-right:0}
+
+/* The list and day columns keep the Latin grid, but a Han label wraps
+   differently, so the two columns get a little more breathing room. */
+.studio-list li{grid-template-columns:minmax(0,260px) minmax(0,760px)}
+.studio-list p{font-size:13.5px}
+
+@media(max-width:650px){
+  .studio-hero h1{font-size:32px;line-height:1.35}
+  .studio-tiers{font-size:11.5px}
+  .studio-tiers thead th{font-size:10px;letter-spacing:1.2px}
+  .studio-label .overline{font-size:10.5px;letter-spacing:1.8px}
+  .studio-back a{margin-right:16px}
+}

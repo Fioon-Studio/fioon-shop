@@ -86,6 +86,8 @@
       addMessage('assistant', 'Live chat is offline on this preview. Email us at 1145635941@qq.com and we will answer the same day.');
       addMessage('assistant', 'Live chat is offline on this preview. Email us at 1145635941@qq.com and we will answer the same day.');
       addMessage('assistant', 'Live chat is offline on this preview. Email us at 1145635941@qq.com and we will answer the same day.');
+      addMessage('assistant', 'Live chat is offline on this preview. Email us at 1145635941@qq.com and we will answer the same day.');
+      addMessage('assistant', 'Live chat is offline on this preview. Email us at 1145635941@qq.com and we will answer the same day.');
       var retry = root.querySelector('[data-support-retry]');
       retry.hidden = false;
     }).finally(function () {

@@ -403,6 +403,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://fioon-studio.github.io/fioon-shop/studio-zh-hant.html</loc>
+    <lastmod>2026-10-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://fioon-studio.github.io/fioon-shop/reptile.html</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>monthly</changefreq>
