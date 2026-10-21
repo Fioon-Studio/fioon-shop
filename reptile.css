@@ -1,0 +1,75 @@
+/* The reptile fitting room.
+   Page-specific rules only. The shared language comes from v2.css and store.css. */
+
+body{background:#fafaf8}
+
+/* Sections share the site gutter, and stay aligned with the navigation
+   and the footer on wide screens. */
+.rep-section{padding-inline:max(5%,calc((100% - 1380px)/2))}
+.rep-band{background:#fff}
+
+/* Intro */
+.rep-intro{padding-block:76px 58px}
+.rep-intro .overline{margin:0 0 30px}
+
+/* Section heads */
+.rep-head{display:flex;align-items:baseline;gap:16px}
+.rep-head h1{font-size:clamp(34px,3.4vw,60px);letter-spacing:-2.4px;font-weight:500;margin:0;line-height:1.05}
+.rep-head h2{font-size:clamp(26px,2.3vw,38px);letter-spacing:-1.6px;font-weight:400;margin:0;line-height:1.1}
+.rep-lede{font-size:15px;line-height:1.7;color:#6c6c64;margin:24px 0 0;max-width:540px}
+.rep-sub{font-size:10px;letter-spacing:1.6px;color:#999;margin:16px 0 0}
+.rep-note{font-size:10px;line-height:1.9;letter-spacing:.4px;color:#94948d;margin:18px 0 0;max-width:640px}
+
+/* The camel coat */
+.rep-band{padding-block:64px 78px}
+.rep-plate{margin:30px auto 0;max-width:600px}
+.rep-plate img{display:block;width:100%;height:auto;background:#fff}
+.rep-plate figcaption{font-size:12px;color:#8b8b84;margin-top:16px}
+
+/* The collection */
+.rep-collection{padding-block:74px 80px}
+.rep-pieces{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:48px 16px;margin-top:40px}
+.rep-pieces figure{margin:0}
+.rep-pieces img{display:block;width:100%;aspect-ratio:1;object-fit:contain;background:#fff}
+.rep-pieces figcaption{font-size:11px;line-height:1.7;color:#8b8b84;margin-top:12px}
+.rep-compare{grid-column:1/-1;max-width:860px;margin-top:24px}
+.rep-compare img{display:block;width:100%;height:auto;aspect-ratio:auto;background:#fff}
+.rep-compare figcaption{font-size:12px;color:#8b8b84;margin-top:16px}
+
+/* The pieces */
+.rep-notes{border-top:1px solid #e7e6e0;padding-block:70px 78px;display:grid;grid-template-columns:minmax(200px,.8fr) 1.4fr;gap:36px 60px;align-items:start}
+.rep-body{font-size:15px;line-height:1.85;color:#5f5f58;margin:0;max-width:660px}
+
+/* The studio */
+.rep-studio{padding-block:70px 76px}
+.rep-studio-line{font-size:14px;line-height:1.85;color:#66665f;margin:24px 0 0;max-width:560px}
+.rep-studio-line a{border-bottom:1px solid #c7c7c7;padding-bottom:6px}
+
+/* Closing line */
+.rep-closing{max-width:none;margin-inline:0;padding-inline:max(5%,calc((100% - 1380px)/2))}
+.rep-closing a{border:0;border-bottom:1px solid #c7c7c7;background:none;padding:10px 0;font-size:11px}
+
+@media(max-width:1050px){
+.rep-pieces{grid-template-columns:repeat(3,minmax(0,1fr));gap:32px 16px}
+.rep-pieces figure:nth-child(5){grid-column:span 2}
+.rep-notes{grid-template-columns:1fr;gap:20px}
+}
+
+@media(max-width:650px){
+.rep-intro{padding-block:48px 42px}
+.rep-intro .overline{margin-bottom:22px}
+.rep-head{gap:11px}
+.rep-head h1{font-size:30px;letter-spacing:-1.4px}
+.rep-head h2{font-size:26px}
+.rep-lede,.rep-body{font-size:14px;line-height:1.75}
+.rep-band{padding-block:44px 56px}
+.rep-plate{margin-top:26px}
+.rep-collection{padding-block:52px 58px}
+.rep-pieces{grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 12px}
+.rep-pieces figure:nth-child(5){grid-column:span 2}
+.rep-pieces figcaption{font-size:10px}
+.rep-compare{margin-top:8px}
+.rep-notes{padding-block:48px 54px}
+.rep-studio{padding-block:50px 56px}
+.rep-studio-line{font-size:13px}
+}

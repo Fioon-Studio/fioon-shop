@@ -1,0 +1,15 @@
+{
+  "name": "fioon-storefront",
+  "version": "10.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --env-file-if-exists=.env server.cjs",
+    "test:commerce": "node commerce-api.test.cjs",
+    "build:v10": "node build-commerce-v10.cjs && node build-seo-v10.cjs"
+  },
+  "engines": { "node": ">=22" },
+  "dependencies": {
+    "@earendil-works/pi-agent-core": "0.87.0",
+    "@earendil-works/pi-ai": "0.87.0"
+  }
+}

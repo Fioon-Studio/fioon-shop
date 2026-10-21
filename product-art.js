@@ -1,0 +1,2 @@
+// Versioned AI-assisted imagery; source photography stays in the gallery.
+(()=>{const p=window.PETAL_PRODUCTS?.find(p=>p.offerId==='964360423547');if(!p)return;const base='assets/lifestyle-v1/';p.image='assets/catalog-v6/strawberry-01.png';p.photos=[p.image,'assets/catalog-v5/strawberry-02.png',base+'strawberry-interaction.png'];p.editorial=base+'strawberry-detail.png';p.artStatus='Main v6 upright worn form with rear lace ties; supplied 256px logo composited directly';})();

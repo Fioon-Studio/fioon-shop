@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="description" content="FiOON checkout preview">
+  <link rel="icon" href="data:,">
+  <title>Checkout preview — FiOON</title>
+  <link rel="stylesheet" href="commerce-v10.css">
+</head>
+<body>
+  <div class="checkout-shell">
+    <header class="checkout-header">
+      <a class="checkout-wordmark" href="index.html"><img src="assets/fioon-logo-black.png" alt="FiOON" width="110"><span>little accessories · everyday affection</span></a>
+      <a class="checkout-back" href="index.html#bag">← Back to bag</a>
+    </header>
+    <main>
+      <section class="checkout-intro" aria-labelledby="checkout-title">
+        <p class="checkout-eyebrow">Your little finds</p>
+        <h1 id="checkout-title">A calm checkout preview.</h1>
+        <p>Review your choices and request an order estimate. Payment is not open yet, and we never ask this preview to store card details.</p>
+      </section>
+      <div class="checkout-layout">
+        <section>
+          <form class="checkout-card" id="delivery-form" autocomplete="on">
+            <h2>Contact & delivery</h2>
+            <div class="checkout-fields">
+              <div class="checkout-field">
+                <label for="checkout-email">Email</label>
+                <input id="checkout-email" name="email" type="email" autocomplete="email" required placeholder="you@example.com">
+              </div>
+              <div class="checkout-field">
+                <label for="checkout-name">Full name</label>
+                <input id="checkout-name" name="name" autocomplete="name" required>
+              </div>
+              <div class="checkout-field full">
+                <label for="checkout-address">Address</label>
+                <input id="checkout-address" name="address" autocomplete="street-address" required>
+              </div>
+              <div class="checkout-field">
+                <label for="checkout-city">City</label>
+                <input id="checkout-city" name="city" autocomplete="address-level2" required>
+              </div>
+              <div class="checkout-field">
+                <label for="checkout-region">State / region</label>
+                <input id="checkout-region" name="region" autocomplete="address-level1">
+              </div>
+              <div class="checkout-field">
+                <label for="checkout-postal">Postal code</label>
+                <input id="checkout-postal" name="postalCode" autocomplete="postal-code" required>
+              </div>
+              <div class="checkout-field">
+                <label for="checkout-country">Destination country</label>
+                <select id="checkout-country" name="country" autocomplete="country" required>
+                  <option value="US">United States</option>
+                  <option value="CA">Canada</option>
+                  <option value="GB">United Kingdom</option>
+                  <option value="AU">Australia</option>
+                  <option value="SG">Singapore</option>
+                  <option value="JP">Japan</option>
+                  <option value="DE">Germany</option>
+                  <option value="FR">France</option>
+                  <option value="OTHER">Other destination</option>
+                </select>
+              </div>
+            </div>
+            <p class="checkout-disclaimer">The estimate uses your selected items and destination country only. Address fields are not sent to the estimate API, saved to local storage, or used to promise delivery. No order or payment is submitted.</p>
+          </form>
+        </section>
+        <aside>
+          <section class="checkout-card" aria-labelledby="summary-title">
+            <h2 id="summary-title">Order summary</h2>
+            <div class="checkout-items" id="checkout-items" aria-live="polite"></div>
+            <div class="quote-message" id="quote-message" role="status" aria-live="polite"></div>
+            <button class="quote-retry" id="quote-retry" type="button" hidden>Try the estimate again</button>
+            <div class="checkout-summary" id="checkout-summary" hidden>
+              <div class="checkout-total-row"><span>Subtotal</span><strong id="quote-subtotal">—</strong></div>
+              <div class="checkout-total-row"><span>Shipping</span><strong id="quote-shipping">—</strong></div>
+              <div class="checkout-total-row total"><span>Total</span><strong id="quote-total">—</strong></div>
+            </div>
+            <div class="payment-box">
+              <h3>PayPal</h3>
+              <p id="payment-note">Payment connection is coming soon. You can request an order estimate, but no payment is available in this preview.</p>
+              <button class="pay-button" type="button" disabled aria-disabled="true">PayPal — coming soon</button>
+            </div>
+            <p class="checkout-privacy">No card number, CVV, or address is sent to a payment provider here. FiOON support is available from the AI support button.</p>
+          </section>
+        </aside>
+      </div>
+    </main>
+    <footer class="checkout-footer">FiOON · English / USD · <a href="mailto:1145635941@qq.com">Contact support</a></footer>
+  </div>
+  <script src="store-data.js"></script>
+  <script src="store-config.js"></script>
+  <script src="split-products.js"></script>
+  <script src="production-art.js"></script>
+  <script src="checkout-v10.js"></script>
+  <script src="support-widget.js"></script>
+</body>
+</html>
