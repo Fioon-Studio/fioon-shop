@@ -1,0 +1,1097 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>*{box-sizing:border-box}body{margin:0;background:#faf9f6;color:#242421;font-family:Arial,sans-serif}main{max-width:1600px;margin:auto;padding:56px 32px}h1{font-size:40px;font-weight:400;letter-spacing:-1.5px}p{color:#68685f;line-height:1.7}section{padding:32px 0;border-top:1px solid #dfded8}header{display:flex;align-items:center;justify-content:space-between;gap:20px}h2{font-size:18px;font-weight:400}a{color:inherit;font-size:13px;text-underline-offset:5px}.images{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}figure{margin:0}img{width:100%;aspect-ratio:1;object-fit:contain;background:white}figcaption{font-size:12px;color:#696962;margin-top:12px}@media(max-width:700px){main{padding:30px 18px}.images{grid-template-columns:repeat(2,1fr)}h1{font-size:30px}}</style>
+<link rel="stylesheet" href="commerce-v10.css">
+<!-- v10-seo-start -->
+<title>Cat &amp; Dog Accessory Lookbook | FiOON</title>
+<meta name="robots" content="index,follow">
+<meta name="description" content="Explore 38 decorative pet accessory designs through studio views and cat and dog home scenes. Find the look, then check each product’s own size guide.">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Cat &amp; Dog Accessory Lookbook | FiOON">
+<meta property="og:description" content="Explore 38 decorative pet accessory designs through studio views and cat and dog home scenes. Find the look, then check each product’s own size guide.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Cat &amp; Dog Accessory Lookbook | FiOON">
+<meta name="twitter:description" content="Explore 38 decorative pet accessory designs through studio views and cat and dog home scenes. Find the look, then check each product’s own size guide.">
+<link rel="canonical" href="https://fioon-studio.github.io/fioon-shop/lookbook.html">
+<meta property="og:url" content="https://fioon-studio.github.io/fioon-shop/lookbook.html">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://fioon-studio.github.io/fioon-shop/"},{"@type":"ListItem","position":2,"name":"Cat & Dog Accessory Lookbook","item":"https://fioon-studio.github.io/fioon-shop/lookbook.html"}]}</script>
+<!-- v10-seo-canonical: lookbook.html -->
+<!-- v10-seo-end -->
+</head>
+<body>
+<main>
+<a href="v2.html">FiOON / Back to the store</a>
+<h1>A little dress-up. Every day.</h1>
+<p>The complete visual collection · 38 designs · 190 photographs<br>Three studio views, a cat at home, and a dog at home — for every design.</p>
+<section>
+<header>
+<h2>The Floral Edit — Vintage floral</h2>
+<a href="products/933548458065-v0.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v0-main.webp" alt="The Floral Edit — Vintage floral — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v0-flat.webp" alt="The Floral Edit — Vintage floral — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v0-interaction.webp" alt="The Floral Edit — Vintage floral — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v0-home_cat.webp" alt="The Floral Edit — Vintage floral — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v0-home_dog.webp" alt="The Floral Edit — Vintage floral — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Fresh green</h2>
+<a href="products/933548458065-v1.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v1-main.webp" alt="The Floral Edit — Fresh green — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v1-flat.webp" alt="The Floral Edit — Fresh green — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v1-interaction.webp" alt="The Floral Edit — Fresh green — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v1-home_cat.webp" alt="The Floral Edit — Fresh green — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v1-home_dog.webp" alt="The Floral Edit — Fresh green — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Brown &amp; green gingham</h2>
+<a href="products/933548458065-v2.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v2-main.webp" alt="The Floral Edit — Brown &amp; green gingham — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v2-flat.webp" alt="The Floral Edit — Brown &amp; green gingham — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v2-interaction.webp" alt="The Floral Edit — Brown &amp; green gingham — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v2-home_cat.webp" alt="The Floral Edit — Brown &amp; green gingham — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v2-home_dog.webp" alt="The Floral Edit — Brown &amp; green gingham — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Yellow floral</h2>
+<a href="products/933548458065-v3.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v3-main.webp" alt="The Floral Edit — Yellow floral — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v3-flat.webp" alt="The Floral Edit — Yellow floral — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v3-interaction.webp" alt="The Floral Edit — Yellow floral — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v3-home_cat.webp" alt="The Floral Edit — Yellow floral — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v3-home_dog.webp" alt="The Floral Edit — Yellow floral — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — White flowers</h2>
+<a href="products/933548458065-v4.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v4-main.webp" alt="The Floral Edit — White flowers — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v4-flat.webp" alt="The Floral Edit — White flowers — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v4-interaction.webp" alt="The Floral Edit — White flowers — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v4-home_cat.webp" alt="The Floral Edit — White flowers — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v4-home_dog.webp" alt="The Floral Edit — White flowers — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Spring long collar</h2>
+<a href="products/933548458065-v5.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v5-main.webp" alt="The Floral Edit — Spring long collar — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v5-flat.webp" alt="The Floral Edit — Spring long collar — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v5-interaction.webp" alt="The Floral Edit — Spring long collar — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v5-home_cat.webp" alt="The Floral Edit — Spring long collar — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v5-home_dog.webp" alt="The Floral Edit — Spring long collar — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Deep green</h2>
+<a href="products/933548458065-v6.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v6-main.webp" alt="The Floral Edit — Deep green — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v6-flat.webp" alt="The Floral Edit — Deep green — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v6-interaction.webp" alt="The Floral Edit — Deep green — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v6-home_cat.webp" alt="The Floral Edit — Deep green — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v6-home_dog.webp" alt="The Floral Edit — Deep green — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Spring blue</h2>
+<a href="products/933548458065-v7.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v7-main.webp" alt="The Floral Edit — Spring blue — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v7-flat.webp" alt="The Floral Edit — Spring blue — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v7-interaction.webp" alt="The Floral Edit — Spring blue — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v7-home_cat.webp" alt="The Floral Edit — Spring blue — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v7-home_dog.webp" alt="The Floral Edit — Spring blue — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Spring pink</h2>
+<a href="products/933548458065-v8.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v8-main.webp" alt="The Floral Edit — Spring pink — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v8-flat.webp" alt="The Floral Edit — Spring pink — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v8-interaction.webp" alt="The Floral Edit — Spring pink — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v8-home_cat.webp" alt="The Floral Edit — Spring pink — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v8-home_dog.webp" alt="The Floral Edit — Spring pink — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Burgundy gingham</h2>
+<a href="products/933548458065-v9.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v9-main.webp" alt="The Floral Edit — Burgundy gingham — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v9-flat.webp" alt="The Floral Edit — Burgundy gingham — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v9-interaction.webp" alt="The Floral Edit — Burgundy gingham — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v9-home_cat.webp" alt="The Floral Edit — Burgundy gingham — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v9-home_dog.webp" alt="The Floral Edit — Burgundy gingham — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>The Floral Edit — Violet floral</h2>
+<a href="products/933548458065-v10.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v10-main.webp" alt="The Floral Edit — Violet floral — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v10-flat.webp" alt="The Floral Edit — Violet floral — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v10-interaction.webp" alt="The Floral Edit — Violet floral — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v10-home_cat.webp" alt="The Floral Edit — Violet floral — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/933548458065-v10-home_dog.webp" alt="The Floral Edit — Violet floral — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Strawberry</h2>
+<a href="products/964360423547.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/964360423547-main.webp" alt="Strawberry — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/964360423547-flat.webp" alt="Strawberry — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/964360423547-interaction.webp" alt="Strawberry — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/964360423547-home_cat.webp" alt="Strawberry — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/964360423547-home_dog.webp" alt="Strawberry — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Opal</h2>
+<a href="products/1070511653863.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070511653863-main.webp" alt="Opal — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070511653863-flat.webp" alt="Opal — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070511653863-interaction.webp" alt="Opal — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070511653863-home_cat.webp" alt="Opal — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070511653863-home_dog.webp" alt="Opal — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Moonlight</h2>
+<a href="products/1051486688798.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051486688798-main.webp" alt="Moonlight — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051486688798-flat.webp" alt="Moonlight — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051486688798-interaction.webp" alt="Moonlight — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051486688798-home_cat.webp" alt="Moonlight — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051486688798-home_dog.webp" alt="Moonlight — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Rose Garden</h2>
+<a href="products/966138452013.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966138452013-main.webp" alt="Rose Garden — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966138452013-flat.webp" alt="Rose Garden — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966138452013-interaction.webp" alt="Rose Garden — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966138452013-home_cat.webp" alt="Rose Garden — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966138452013-home_dog.webp" alt="Rose Garden — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Noel — Christmas red</h2>
+<a href="products/976893471094-v0.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v0-main.webp" alt="Noel — Christmas red — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v0-flat.webp" alt="Noel — Christmas red — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v0-interaction.webp" alt="Noel — Christmas red — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v0-home_cat.webp" alt="Noel — Christmas red — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v0-home_dog.webp" alt="Noel — Christmas red — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Noel — Christmas green</h2>
+<a href="products/976893471094-v1.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v1-main.webp" alt="Noel — Christmas green — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v1-flat.webp" alt="Noel — Christmas green — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v1-interaction.webp" alt="Noel — Christmas green — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v1-home_cat.webp" alt="Noel — Christmas green — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/976893471094-v1-home_dog.webp" alt="Noel — Christmas green — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Bluebell</h2>
+<a href="products/1050793307032.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1050793307032-main.webp" alt="Bluebell — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1050793307032-flat.webp" alt="Bluebell — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1050793307032-interaction.webp" alt="Bluebell — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1050793307032-home_cat.webp" alt="Bluebell — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1050793307032-home_dog.webp" alt="Bluebell — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Buttercup</h2>
+<a href="products/965514137814.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/965514137814-main.webp" alt="Buttercup — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/965514137814-flat.webp" alt="Buttercup — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/965514137814-interaction.webp" alt="Buttercup — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/965514137814-home_cat.webp" alt="Buttercup — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/965514137814-home_dog.webp" alt="Buttercup — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Winter Garden</h2>
+<a href="products/1081051649498.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1081051649498-main.webp" alt="Winter Garden — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1081051649498-flat.webp" alt="Winter Garden — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1081051649498-interaction.webp" alt="Winter Garden — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1081051649498-home_cat.webp" alt="Winter Garden — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1081051649498-home_dog.webp" alt="Winter Garden — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Camellia</h2>
+<a href="products/1070523037304.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070523037304-main.webp" alt="Camellia — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070523037304-flat.webp" alt="Camellia — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070523037304-interaction.webp" alt="Camellia — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070523037304-home_cat.webp" alt="Camellia — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1070523037304-home_dog.webp" alt="Camellia — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Magnolia — Black</h2>
+<a href="products/1080872198561-v0.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v0-main.webp" alt="Magnolia — Black — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v0-flat.webp" alt="Magnolia — Black — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v0-interaction.webp" alt="Magnolia — Black — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v0-home_cat.webp" alt="Magnolia — Black — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v0-home_dog.webp" alt="Magnolia — Black — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Magnolia — White</h2>
+<a href="products/1080872198561-v1.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v1-main.webp" alt="Magnolia — White — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v1-flat.webp" alt="Magnolia — White — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v1-interaction.webp" alt="Magnolia — White — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v1-home_cat.webp" alt="Magnolia — White — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1080872198561-v1-home_dog.webp" alt="Magnolia — White — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>New Year — Fu motif</h2>
+<a href="products/1004549483937-v0.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v0-main.webp" alt="New Year — Fu motif — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v0-flat.webp" alt="New Year — Fu motif — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v0-interaction.webp" alt="New Year — Fu motif — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v0-home_cat.webp" alt="New Year — Fu motif — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v0-home_dog.webp" alt="New Year — Fu motif — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>New Year — Good fortune motif</h2>
+<a href="products/1004549483937-v1.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v1-main.webp" alt="New Year — Good fortune motif — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v1-flat.webp" alt="New Year — Good fortune motif — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v1-interaction.webp" alt="New Year — Good fortune motif — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v1-home_cat.webp" alt="New Year — Good fortune motif — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004549483937-v1-home_dog.webp" alt="New Year — Good fortune motif — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Lace Petal</h2>
+<a href="products/1051275540035.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051275540035-main.webp" alt="Lace Petal — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051275540035-flat.webp" alt="Lace Petal — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051275540035-interaction.webp" alt="Lace Petal — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051275540035-home_cat.webp" alt="Lace Petal — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051275540035-home_dog.webp" alt="Lace Petal — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Wildcat — Leopard ruffle</h2>
+<a href="products/1052595684235-v0.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v0-main.webp" alt="Wildcat — Leopard ruffle — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v0-flat.webp" alt="Wildcat — Leopard ruffle — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v0-interaction.webp" alt="Wildcat — Leopard ruffle — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v0-home_cat.webp" alt="Wildcat — Leopard ruffle — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v0-home_dog.webp" alt="Wildcat — Leopard ruffle — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Wildcat — Blue floral ruffle</h2>
+<a href="products/1052595684235-v1.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v1-main.webp" alt="Wildcat — Blue floral ruffle — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v1-flat.webp" alt="Wildcat — Blue floral ruffle — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v1-interaction.webp" alt="Wildcat — Blue floral ruffle — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v1-home_cat.webp" alt="Wildcat — Blue floral ruffle — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1052595684235-v1-home_dog.webp" alt="Wildcat — Blue floral ruffle — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Wildflower</h2>
+<a href="products/966954696486.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966954696486-main.webp" alt="Wildflower — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966954696486-flat.webp" alt="Wildflower — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966954696486-interaction.webp" alt="Wildflower — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966954696486-home_cat.webp" alt="Wildflower — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966954696486-home_dog.webp" alt="Wildflower — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Lilac</h2>
+<a href="products/1001674896563.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1001674896563-main.webp" alt="Lilac — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1001674896563-flat.webp" alt="Lilac — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1001674896563-interaction.webp" alt="Lilac — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1001674896563-home_cat.webp" alt="Lilac — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1001674896563-home_dog.webp" alt="Lilac — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Summer Day — Green rabbit</h2>
+<a href="products/1053119807495-v0.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v0-main.webp" alt="Summer Day — Green rabbit — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v0-flat.webp" alt="Summer Day — Green rabbit — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v0-interaction.webp" alt="Summer Day — Green rabbit — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v0-home_cat.webp" alt="Summer Day — Green rabbit — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v0-home_dog.webp" alt="Summer Day — Green rabbit — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Summer Day — Red rabbit</h2>
+<a href="products/1053119807495-v1.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v1-main.webp" alt="Summer Day — Red rabbit — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v1-flat.webp" alt="Summer Day — Red rabbit — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v1-interaction.webp" alt="Summer Day — Red rabbit — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v1-home_cat.webp" alt="Summer Day — Red rabbit — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1053119807495-v1-home_dog.webp" alt="Summer Day — Red rabbit — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Violet</h2>
+<a href="products/966331013715.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966331013715-main.webp" alt="Violet — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966331013715-flat.webp" alt="Violet — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966331013715-interaction.webp" alt="Violet — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966331013715-home_cat.webp" alt="Violet — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/966331013715-home_dog.webp" alt="Violet — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Crimson</h2>
+<a href="products/1004158235888.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004158235888-main.webp" alt="Crimson — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004158235888-flat.webp" alt="Crimson — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004158235888-interaction.webp" alt="Crimson — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004158235888-home_cat.webp" alt="Crimson — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1004158235888-home_dog.webp" alt="Crimson — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Silverleaf — Pattern A</h2>
+<a href="products/1008851858825-v0.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v0-main.webp" alt="Silverleaf — Pattern A — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v0-flat.webp" alt="Silverleaf — Pattern A — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v0-interaction.webp" alt="Silverleaf — Pattern A — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v0-home_cat.webp" alt="Silverleaf — Pattern A — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v0-home_dog.webp" alt="Silverleaf — Pattern A — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Silverleaf — Pattern B</h2>
+<a href="products/1008851858825-v1.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v1-main.webp" alt="Silverleaf — Pattern B — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v1-flat.webp" alt="Silverleaf — Pattern B — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v1-interaction.webp" alt="Silverleaf — Pattern B — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v1-home_cat.webp" alt="Silverleaf — Pattern B — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1008851858825-v1-home_dog.webp" alt="Silverleaf — Pattern B — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Scarlet</h2>
+<a href="products/1016200730610.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1016200730610-main.webp" alt="Scarlet — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1016200730610-flat.webp" alt="Scarlet — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1016200730610-interaction.webp" alt="Scarlet — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1016200730610-home_cat.webp" alt="Scarlet — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1016200730610-home_dog.webp" alt="Scarlet — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+<section>
+<header>
+<h2>Corgi</h2>
+<a href="products/1051590706091.html">Explore product ↗</a>
+</header>
+<div class="images">
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051590706091-main.webp" alt="Corgi — Sculptural studio">
+<figcaption>Sculptural studio</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051590706091-flat.webp" alt="Corgi — Open flatlay">
+<figcaption>Open flatlay</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051590706091-interaction.webp" alt="Corgi — Together, in white">
+<figcaption>Together, in white</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051590706091-home_cat.webp" alt="Corgi — At home with cats">
+<figcaption>At home with cats</figcaption>
+</figure>
+<figure>
+<img loading="lazy" src="assets/catalog-web-v8/1051590706091-home_dog.webp" alt="Corgi — At home with dogs">
+<figcaption>At home with dogs</figcaption>
+</figure>
+</div>
+</section>
+</main>
+<script src="support-widget.js" defer>
+</script>
+</body>
+</html>

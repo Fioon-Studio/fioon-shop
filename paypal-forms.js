@@ -22,7 +22,7 @@
       '<input type="hidden" name="return" value="' + esc(ret) + '">' +
       '<input type="hidden" name="cancel_return" value="' + esc(can) + '">' +
       '<input type="hidden" name="rm" value="2">' +
-      '<button class="solid pay-button" type="submit">Pay with PayPal</button>' +
+      '<button class="pay-button" type="submit">' + esc(t.label || 'Pay with PayPal') + ' — pay with PayPal</button>' +
       '</form>';
   }
   function mount(root) {
